@@ -3,11 +3,11 @@
 <img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen1%20.png"
 style="height:400px;  object-fit: contain;">
 <img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen2%20.png"
- style="height:250px;  object-fit: contain;" >
+ style="height:400px;  object-fit: contain;" >
 <img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen3%20.png"
- style="height:250px;  object-fit: contain;" >
+ style="height:400px;  object-fit: contain;" >
 <img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen4%20.png"
- style="height:250px;  object-fit: contain;" >
+ style="height:400px;  object-fit: contain;" >
 
 
 
