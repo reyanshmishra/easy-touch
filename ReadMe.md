@@ -1,8 +1,14 @@
 [Watch it working](https://imgur.com/a/7Eqwq9k)
 
-<img src="https://i.imgur.com/HHCjVxB.png"
+<img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen1%20.png"
 style="height:400px;  object-fit: contain;">
-<img src="https://qph.cf2.quoracdn.net/main-qimg-66ca1e45bff46b3591257520ea88c6c2-pjlq" style="height:250px;  object-fit: contain;" >
+<img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen2%20.png"
+ style="height:250px;  object-fit: contain;" >
+<img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen3%20.png"
+ style="height:250px;  object-fit: contain;" >
+<img src="https://github.com/reyanshmishra/easy-touch/blob/main/screen4%20.png"
+ style="height:250px;  object-fit: contain;" >
+
 
 
 Add this JSON to your firebase real time database store to.
