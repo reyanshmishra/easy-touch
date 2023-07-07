@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">EasyTouch</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="lock">Lock</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="favorites">Favorites</string>
+    <string name="clean">Clean</string>
+    <string name="device">Device</string>
+    <string name="recent">Recent</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="admin_access">Admin Access</string>
+    <string name="admin_access_message">Please provide admin access to lock the phone.</string>
+    <string name="device_admin">Device Admin</string>
+    <string name="unable_to_take_screenshot">Unable to take screenshot.</string>
+    <string name="grant_permission">Grant Permission!</string>
+    <string name="grant_permission_message">You will have to grant permission from settings.\nOpen Settings?</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="screenshot_saved">Screenshot saved in</string>
+    <string name="can_not_open_recent_apps">Can not open recent apps.</string>
+    <string name="accessibility_permission">Accessibility permission</string>
+    <string name="accessibility_permission_message">Please provide accessibility permission to enable the back button.</string>
+    <string name="silent">Silent</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="sound">Sound</string>
+    <string name="location">Location</string>
+    <string name="volume_up">Volume Up</string>
+    <string name="brightness">Brightness</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="volume_down">Volume Down</string>
+    <string name="silent_mode">Silent Mode</string>
+    <string name="ringer_mode">Ringer Mode</string>
+    <string name="flash_light_not_available">Flash light not available.</string>
+    <string name="icon_settings">Icon Settings</string>
+    <string name="panel_settings">Panel Settings</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="more">More</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="failed_to_uninstall">Failed to uninstall.</string>
+    <string name="icon">Icon</string>
+    <string name="icon_sub_header">Change Icon Display</string>
+    <string name="size">Size</string>
+    <string name="size_sub_header">Change size of icon display.</string>
+    <string name="alpha">Alpha</string>
+    <string name="panel">Panel Settings</string>
+    <string name="panel_sub_header">Change position and settings</string>
+    <string name="panel_background">Background Panel</string>
+    <string name="select_background_color">Select Background Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="select_icon">Select Icon.</string>
+    <string name="can_not_change_this_position">Can not change this position.</string>
+    <string name="replace">Replace</string>
+    <string name="home_panel">Home Panel</string>
+    <string name="setting_panel">Setting Panel</string>
+    <string name="favorite_panel">Favorite Panel</string>
+
+
+    <integer-array name="icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_circle</item>
+        <item>@drawable/ic_icon_01</item>
+        <item>@drawable/ic_icon_02</item>
+        <item>@drawable/ic_icon_03</item>
+        <item>@drawable/ic_icon_04</item>
+        <item>@drawable/ic_icon_05</item>
+        <item>@drawable/ic_icon_06</item>
+        <item>@drawable/ic_icon_07</item>
+        <item>@drawable/ic_icon_08</item>
+        <item>@drawable/ic_icon_09</item>
+        <item>@drawable/ic_icon_10</item>
+        <item>@drawable/ic_icon_11</item>
+        <item>@drawable/ic_icon_12</item>
+        <item>@drawable/ic_icon_13</item>
+        <item>@drawable/ic_icon_14</item>
+        <item>@drawable/ic_icon_15</item>
+        <item>@drawable/ic_icon_16</item>
+        <item>@drawable/ic_icon_17</item>
+        <item>@drawable/ic_icon_18</item>
+        <item>@drawable/ic_icon_19</item>
+        <item>@drawable/ic_icon_20</item>
+        <item>@drawable/ic_icon_21</item>
+        <item>@drawable/ic_icon_22</item>
+        <item>@drawable/ic_icon_23</item>
+        <item>@drawable/ic_icon_24</item>
+        <item>@drawable/ic_icon_25</item>
+        <item>@drawable/ic_icon_26</item>
+        <item>@drawable/ic_icon_27</item>
+        <item>@drawable/ic_icon_28</item>
+        <item>@drawable/ic_icon_29</item>
+        <item>@drawable/ic_icon_30</item>
+        <item>@drawable/ic_icon_31</item>
+        <item>@drawable/ic_icon_32</item>
+        <item>@drawable/ic_icon_33</item>
+        <item>@drawable/ic_icon_34</item>
+        <item>@drawable/ic_icon_35</item>
+        <item>@drawable/ic_icon_36</item>
+        <item>@drawable/ic_icon_37</item>
+        <item>@drawable/ic_icon_38</item>
+        <item>@drawable/ic_icon_39</item>
+        <item>@drawable/ic_icon_40</item>
+
+    </integer-array>
+
+
+</resources>

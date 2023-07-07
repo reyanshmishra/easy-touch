@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyTouch.iml" filepath="$PROJECT_DIR$/EasyTouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyTouch.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpicker/EasyTouch.colorpicker.unitTest.iml" />
+    </modules>
+  </component>
+</project>
